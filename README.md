@@ -35,3 +35,6 @@ To test the application, the user needs to open the file in VS Code, change to t
 If there are any questions, feel free to contact my email at: ponchobt.dev@gmail.com
 
 You can also find me on GitHub at: [ponchobt](https://www.github.com/ponchobt)
+
+
+![MOVIE](./assets/movie/DG_0007.gif)
